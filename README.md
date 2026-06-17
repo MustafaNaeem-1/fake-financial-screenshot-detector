@@ -249,5 +249,5 @@ All tunable parameters live in the `CONFIG` dictionary at the top of `mainn.py`:
 
 ## Author
 
-**Abdullah Kamran**
-BS Software Engineering · Semester 6 AI Project
+**Mustafa Naeem**
+
